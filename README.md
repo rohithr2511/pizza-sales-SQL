@@ -37,3 +37,6 @@ A pizza sales store manager can utilize this SQL project to extract valuable ins
   or seasonal offerings.
 - Operational Efficiency: Date and time data from the orders table allow managers to assess peak hours and staff the store appropriately, ensuring operational efficiency and customer satisfaction.
 - Marketing Insights: Data analysis can also support targeted marketing campaigns, like promotions on specific types of pizzas that are popular or on days when sales are typically lower.
+
+
+## Note : The project is available in Red Green Beigo Retro Illustrative file 
